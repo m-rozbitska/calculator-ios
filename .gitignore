@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src
+src
 .parcel-cache
 index.html
 
